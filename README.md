@@ -1,7 +1,8 @@
 # test_0
-# Put this in arduino:
-[Ardunio](https://github.com/PradhyumnaVA/test_0/blob/7cdee8a2b9e5a9455f3da38be70c078aae7cc968/pyinterface/test_02_ir/test_02_ir.ino)
+# Put this in arduino IDE:
+code for ESP8266
+[Ardunio](https://github.com/PradhyumnaVA/Pyinterface_ir/blob/c00597b126d5150a73fed0822cc51ef903973876/pyinterface/test_04_blynk_contro/test_04_blynk_contro.ino)
 
 # Put this in Python:
-[Python](https://github.com/PradhyumnaVA/test_0/blob/09e13e8fd8cafafbe0b8fc09d95aa1735837cd61/pyinterface/test_case_01.py)
+[Python](https://github.com/PradhyumnaVA/Pyinterface_ir/blob/c00597b126d5150a73fed0822cc51ef903973876/pyinterface/blynk_python.py)
 
